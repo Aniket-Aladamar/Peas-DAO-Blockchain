@@ -1,6 +1,6 @@
 # buildspace x thirdweb - Build your own DAO with just Javascript
 
-# This is a clg project for - Introduction To Blockchain course
+### **This is a clg project for - Introduction To Blockchain course**
 created by Team PEAS
 - Aniket Aladamar
 - Sumedha L
